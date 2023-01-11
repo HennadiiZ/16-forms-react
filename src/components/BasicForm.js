@@ -1,3 +1,5 @@
+import SimpleInput from './SimpleInput';
+
 const BasicForm = (props) => {
   return (
     <form>
